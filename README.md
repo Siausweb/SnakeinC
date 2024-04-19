@@ -1,6 +1,7 @@
 # **WWW** snake in C
  simple snake game by me 
  uses ncurses libary so make sure you have that
+ 
  USE THE ARROW KEYS TO MOVE
 
  to build run this in the directory the files are in
